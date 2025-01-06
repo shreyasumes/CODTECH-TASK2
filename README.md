@@ -8,18 +8,18 @@
 
 ## Overview Of The Project
 
-### Project : Simple Calculator
+### Project : Student Grade Tracker
 
 ### Objectives :
-**1.** Prompts the user to enter two numbers.
-**2.** Allows the user to choose an arithmetic operation (addition, subtraction, multiplication, division).
-**3.** Performs the selected operation on the input numbers.
-**4.** Displays the result of the operation to the user.
+**1 Input Grades:** Allow users to enter grades for various subjects or assignments.
+**2  Calculate Average:** Compute the average of the entered grades.
+**3 Display Grades:** Show the overall grade along with additional information such as the letter grade or GPA.
+
 
 ### Key Features : 
-**User Input:** Prompt the user to enter two numbers.
-**Operation Selection:** Allow the user to choose the desired operation (addition, subtraction, multiplication, division).
-**Perform Calculation:** Execute the chosen operation on the provided numbers.
-**Display Result:** Show the result of the calculation to the user.
-**Handle Errors:** Manage invalid inputs and operations, such as division by zero or unrecognized operations.
+**User-Friendly Input:** Interface for entering grades for different subjects or assignments.
+**Grade Calculation:** Automatically calculate the average grade based on the input.
+**Letter Grade:** Determine and display the letter grade (A, B, C, etc.) corresponding to the average grade.
+**GPA Calculation:** Option to calculate and display the GPA based on the entered grades.
+**Error Handling:** Manage invalid inputs and ensure the program can handle them gracefully.
 
